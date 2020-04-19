@@ -5,3 +5,4 @@ file 2
 
 My file
 
+Another change
